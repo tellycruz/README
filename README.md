@@ -3,7 +3,7 @@ Salve devs! 👋
 Estou migrando para a área de tecnologia e se tudo der certo, nos próximos meses minha page estará repleta de trabalhos e portfólios!
 Seja bem vindo e sinta-se à vontade para críticas e dicas! Paz!.
 
-## <img width="45" alt="about" src="https://img1.gratispng.com/20180615/kau/kisspng-snowy-puppy-the-adventures-of-tintin-dog-comics-5b235b8b03f586.3631707615290438510163.jpg"> Mais sobre mim
+<a href="https://flyclipart.com/pikachu-pokemon-transparent-png-pokemon-png-images-179231" title="Pikachu Pokemon Transparent Png - Pokemon PNG Images"><img src="https://flyclipart.com/thumb2/pikachu-pokemon-transparent-png-179231.png" width="30" /></a> Mais sobre mim
 <img align="right" width="300" src="https://c.tenor.com/fq-1gwJhSf8AAAAM/baby-koding-baby.gif" />
 
 Brasileiro<br>
@@ -38,18 +38,24 @@ Possuo especializações na área de Lean 6sigma (gestão de projetos e análise
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tellycruz&show_icons=true&theme=dracula&line_height=27" alt="**TELLY CRUZ** github stats"/>
 </a>
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/the.cruz/
-[linkedin]: https://www.linkedin.com/in/tellycruz/
+<br>
+<br>
+<br>
+<br>
 <br>
 
-#### Rede Sociais!
+<p align="center">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tcruzcaires@gmail.com" /></a>
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tellycruz" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/tellycruzcaires"/></a>
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/thecruz"/></a>
+</p>  
