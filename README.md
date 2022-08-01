@@ -45,7 +45,7 @@ Possuo especializações na área de Lean 6sigma (gestão de projetos e análise
 <br>
 
 <p align="center">
-  <a href="https://www.gmail.com" alt="Gmail">
+  <a href="mailto:tcruzcaires@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tcruzcaires@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/tellycruz" alt="Linkedin">
